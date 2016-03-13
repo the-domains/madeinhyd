@@ -1,0 +1,28 @@
+name: madeinhyd
+favicon: null
+layout_spectrum: 0.40302867791615427
+typography_spectrum: 0.5446461164392531
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8250816913787276
+  lightness: 0.22038615681231022
+  saturation: 0.726908348267898
+  rhythmicContrast: 0.03505621966905892
+purpose: []
